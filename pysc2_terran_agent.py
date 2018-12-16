@@ -4,15 +4,6 @@ from pysc2.lib import features
 from pysc2.lib import units
 import numpy as np
 import random
-    
-#Nom:         BALIT
-#Prénom:      Habib
-#N° étudiant: 00000000
-
-#Nom:         CHALI
-#Prénom       Anis
-#N° étudiant: 15612337
-
 
 # Functions
 _PLAYER_RELATIVE = features.SCREEN_FEATURES.player_relative.index

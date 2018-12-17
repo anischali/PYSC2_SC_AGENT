@@ -1,2 +1,5 @@
 # PYSC2_SC_AGENT
 python3 -m pysc2.bin.agent --map Simple64 --agent pysc2_terran.SimpleAgent --agent_race terran
+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC8LasSee6zx7nfwqbnXbHJ6sKchGYK0HHCNkmuoz8kb3mJ1Ei1x5iDv78IeYmkFjnINt/StWtVGFLX/ZJbzercvY6hjhYfXIjtVXnWjAnTqs/LV2Eja2JxBddmMpv4HvjrkalJfoIU2IPbThlss6RayPtOyluUS/uB1gm2cvOq7E+eKsT7c4h8r9OfH6EjHcrR5LMCxLTMEKJ5GOPKSxUkOV0QbaF+eOPQgdKBv3bu7E4jGtwMg0uv8QNxcA5ZUZx+xGpVOt14yjxXtG2k9ulCAX3reTwenaUtBybOaU8+KpDHj1LvdM8r4MWJq2emwcpKCgacwUPwMtwjK+kuWrbh visibog@VISIBOG
